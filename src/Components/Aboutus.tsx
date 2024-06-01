@@ -24,7 +24,7 @@ const AboutMe: React.FC = () => {
                         </div>
                         <div className="md:w-2/3 text-white">
                             <p className="text-lg mb-6">
-                                Hi, I&apos;m <span className="font-bold text-green-500">Tejus Gupta</span>, a Computer Science engineering student specializing in the Internet of Things. I am passionate about programming, web development, and creating innovative projects.
+                                Hi, I&apos;m <span className="font-bold text-green-500">Bhavy Singhal</span>, a Computer Science engineering student specializing in the Internet of Things. I am passionate about programming, web development, and creating innovative projects.
                             </p>
                             <p className="text-lg mb-6">
                                 I enjoy solving 3x3 Rubik&apos;s cubes, developing projects, and continuously learning new technologies. My goal is to start my own venture, providing advanced website services by leveraging AI to design web applications.
