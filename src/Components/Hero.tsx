@@ -13,7 +13,7 @@ const Hero = () => {
                 <Image alt='' src={bg} className='rounded-2xl h-[40%] w-[100%]' />
                 <Image alt='' src={picofme} className='rounded-full h-[180px] w-[180px] absolute top-5 left-[40%] border-5' />
                 <h1 className='text-4xl font-bold text-center mt-12'>Bhavy Singhal</h1>
-                <p className='text-center mt-4'>"Frontend Developer, Problem Solver – Crafting Engaging Interfaces with Precision"</p>
+                <p className='text-center mt-4'>&ldquo;Frontend Developer, Problem Solver – Crafting Engaging Interfaces with Precision&ldquo;</p>
                 <div className='flex justify-center mt-4 gap-10'>
                     <a href='https://www.linkedin.com/in/bhavy-singhal-241546289/' target='_blank' rel='noreferrer'>
                         <FaLinkedin className='text-3xl' />
