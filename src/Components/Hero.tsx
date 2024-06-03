@@ -13,12 +13,12 @@ const Hero = () => {
                 <Image alt='' src={bg} className='rounded-2xl h-[40%] w-[100%]' />
                 <Image alt='' src={picofme} className='rounded-full h-[180px] w-[180px] absolute top-5 left-[40%] border-5' />
                 <h1 className='text-4xl font-bold text-center mt-12'>Bhavy Singhal</h1>
-                <p className='text-center mt-4'>"Student, frontend Developer, Problem Solver – Crafting Engaging Interfaces with Precision"</p>
+                <p className='text-center mt-4'>"Frontend Developer, Problem Solver – Crafting Engaging Interfaces with Precision"</p>
                 <div className='flex justify-center mt-4 gap-10'>
                     <a href='https://www.linkedin.com/in/bhavy-singhal-241546289/' target='_blank' rel='noreferrer'>
                         <FaLinkedin className='text-3xl' />
                     </a>
-                    <a href='https://www.linkedin.com/in/tejus-gupta-3b7b5b1b0/' target='_blank' rel='noreferrer'>
+                    <a href='https://www.instagram.com/bhavy_singhal_/?hl=en/' target='_blank' rel='noreferrer'>
                         <BsInstagram className='text-3xl' />
                     </a>
                     <a href='https://github.com/Bhavysinghal/' target='_blank' rel='noreferrer'>
@@ -27,7 +27,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className='mt-20 text-xl text-white'>
-                In the past 8 months, I&apos;ve been a <span className='text-2xl text-green-500'>Student</span>, <span className='text-2xl text-blue-500'>Web Developer</span> &amp; <span className='text-2xl text-yellow-500'>Community Member</span>.
+                In the past 8 months, I&apos;ve been a <span className='text-2xl text-green-500'>Student </span>and <span className='text-2xl text-blue-500'>Frontend Developer</span>.
             </div>
         </div>
         <hr /></div>
